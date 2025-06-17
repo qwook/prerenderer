@@ -65,6 +65,7 @@
   },
   "dependencies": {
     "@prerenderer/prerenderer": "^1.2.5",
+    "@prerenderer/webpack-plugin": "file:packages/webpack-plugin",
     "schema-utils": "^4.2.0",
     "ts-deepmerge": "^6.2.0"
   },
